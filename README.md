@@ -57,11 +57,4 @@ python app.py
 - Simple navigation system
 - Interactive menu display
 
-👩‍💻 Author
 
-Your Name: Shaik Tanju
-Role: Web Developer
-
-📧 Contact
-
-You can contact me for any queries or collaboration opportunities.
